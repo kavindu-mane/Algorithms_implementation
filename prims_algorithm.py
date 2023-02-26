@@ -40,11 +40,11 @@ find_vertex(paths)
 
 
 #Sample Imput
-7
-A B 5
-B E 10
-E D 10
-E C 30
-D C 20
-D B 35
-C A 10
+#7
+#A B 5
+#B E 10
+#E D 10
+#E C 30
+#D C 20
+#D B 35
+#C A 10
