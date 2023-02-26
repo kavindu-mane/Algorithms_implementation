@@ -7,3 +7,5 @@ Algorithms implementation using python.
    * ***Kruskal's Algorithm***
    
    * ***Dijkstra Algorithm***
+
+   * ***Miller-Rabin Primality Test Algorithm***
