@@ -20,7 +20,7 @@ for _ in range(path_count):
 paths = sorted(paths , key = lambda x : int(x[2]))
 print("Minimum cost : {}".format(kruskals(paths)))
 
-#Sample Imput
+#Sample Input
 #7
 #A B 5
 #B E 10

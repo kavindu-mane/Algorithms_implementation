@@ -3,7 +3,7 @@ def print_results(weights , shortest_paths , root):
         print("from {} to {} : \n\t Shortes path : {} \n\t Minimum weight : {} \n"
         .format(root , vertex , shortest_paths[vertex] , weights[vertex]))
 
-# Prims Algorithm 
+# Dijkstra Algorithm 
 def dijkstra(paths , visited , unvisited  ,  root):
     start = root
     weights = {x : float('inf') for x in unvisited}
@@ -53,7 +53,7 @@ find_vertex(paths , root)
 
 
 
-#Sample Imput - 1
+#Sample Input - 1
 #7
 # A B 5
 # B E 10
@@ -64,7 +64,7 @@ find_vertex(paths , root)
 # C A 10
 # A
 
-#Sample Imput - 2
+#Sample Input - 2
 #17
 # A B 3
 # A E 7
@@ -83,4 +83,4 @@ find_vertex(paths , root)
 # H G 2
 # G E 3
 # E F 1
-#B
+# B

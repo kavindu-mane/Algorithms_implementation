@@ -39,7 +39,7 @@ find_vertex(paths)
 
 
 
-#Sample Imput
+#Sample Input
 #7
 #A B 5
 #B E 10
