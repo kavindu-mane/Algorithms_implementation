@@ -2,4 +2,6 @@
 
 Algorithms implementation using python.
 
-***1. Prim's Algorithm***
+   * ***Prim's Algorithm***
+
+   * ***Kruskal's Algorithms***
