@@ -4,4 +4,6 @@ Algorithms implementation using python.
 
    * ***Prim's Algorithm***
 
-   * ***Kruskal's Algorithms***
+   * ***Kruskal's Algorithm***
+   
+   * ***Dijkstra Algorithm***
