@@ -27,7 +27,7 @@ def find_vertex(paths):
         mirror_paths.append([b,a,c])
     paths.extend(mirror_paths)
     weight = prims(paths , visited , unvisited , 0 , unvisited[0])
-    print(weight)
+    print("Minimum cost : {}".format(weight))
 
 path_count = int(input("Enter edge count : "))
 paths = []
