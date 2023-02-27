@@ -1,4 +1,4 @@
-# Algorithms_implementation
+# Algorithms Implementation and Data Structures Design
 
 Algorithms implementation using python.
 
@@ -9,3 +9,7 @@ Algorithms implementation using python.
    * ***Dijkstra Algorithm***
 
    * ***Miller-Rabin Primality Test Algorithm***
+   
+Data structures design using python
+
+  * ***LinkedList - singly LinkedList***
