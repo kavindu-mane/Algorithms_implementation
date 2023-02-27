@@ -24,8 +24,6 @@ def dijkstra(paths , visited , unvisited  ,  root):
             break
         else:
             root = sorted(sorted(weights.items() , key = lambda x:x[0]) , key = lambda x:x[1])[len(visited)][0]
-    # print(weights)
-    # print(shortest_paths)
     print_results(weights , shortest_paths , start)
 
 # Find Vertices
