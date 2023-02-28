@@ -13,3 +13,5 @@
 ### Data structures design using python
 
   * ***LinkedList - singly LinkedList***
+  
+  * ***Binary Search Tree***
