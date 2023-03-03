@@ -14,6 +14,4 @@
 
   * ***LinkedList - singly LinkedList***
   
-  * ***Binary Search Tree***
-  
-    ![tree](https://user-images.githubusercontent.com/99143916/221861314-fb726358-3e8f-4f56-8861-cda7e10ff778.png)
+  * ***Binary Search Tree &ensp;( <a href ="https://github.com/kavindu-mane/Algorithms_implementation/blob/main/tree.png">Show Used Tree</a> )***
