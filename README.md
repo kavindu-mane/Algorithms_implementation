@@ -13,7 +13,7 @@
     </li>   
     <li><h4>Sort Algorithms</h4>
     <ul>
-      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/sort%20algorithms/bubble_search.py" alt = "kavindu-mane">Bubble Sort Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/sort%20algorithms/bubble_sort.py" alt = "kavindu-mane">Bubble Sort Algorithm</a></i></li>
       <li><i><a href = "" alt = "kavindu-mane">Quick Sort Algorithm</a></i></li>
       <li><i><a href = "" alt = "kavindu-mane">Bubble Sort Algorithm</a></i></li>
       <li><i><a href = "" alt = "kavindu-mane">Bubble Sort Algorithm</a></i></li>
