@@ -22,8 +22,8 @@
     </li>
     <li><h4>Search Algorithms</h4>
     <ul>
-      <li><i><a href = "" alt = "kavindu-mane">Linear Search Algorithm</a></i></li>
-      <li><i><a href = "" alt = "kavindu-mane">Binary Search Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/search%20algorithms/linear_search.py" alt = "kavindu-mane">Linear Search Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/search%20algorithms/binary_search.py" alt = "kavindu-mane">Binary Search Algorithm</a></i></li>
     </ul>
     </li>
     <li><h4>Other Algorithms</h4>
