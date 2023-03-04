@@ -15,9 +15,9 @@
     <ul>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/sort%20algorithms/bubble_sort.py" alt = "kavindu-mane">Bubble Sort Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/sort%20algorithms/quick_sort.py" alt = "kavindu-mane">Quick Sort Algorithm</a></i></li>
-      <li><i><a href = "" alt = "kavindu-mane">Selection Sort Algorithm</a></i></li>
-      <li><i><a href = "" alt = "kavindu-mane">Insertion Sort Algorithm</a></i></li>
-      <li><i><a href = "" alt = "kavindu-mane">Merge Sort Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/sort%20algorithms/selection_sort.py" alt = "kavindu-mane">Selection Sort Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/sort%20algorithms/insertion_sort.py" alt = "kavindu-mane">Insertion Sort Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/sort%20algorithms/merge_sort.py" alt = "kavindu-mane">Merge Sort Algorithm</a></i></li>
     </ul>
     </li>
     <li><h4>Search Algorithms</h4>
