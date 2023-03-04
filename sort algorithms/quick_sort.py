@@ -24,7 +24,6 @@ def quick_sort(arry , start , end):
     quick_sort(arry , splitter + 1 , end)
 
 array = [ 2, 5 , 1 , 2 , 20 , 15 , 12, 3 , 4 , 2 , 50 , 21 , 23 ,35]
-# array = [10,6,11,8,12,2,9,15]
 print("Before Sorting : {}".format(array))
 
 quick_sort(array , 0 , len(array) -1)
