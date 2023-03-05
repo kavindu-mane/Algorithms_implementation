@@ -5,6 +5,8 @@
 <ul>
     <li><h4>Traversing Algorithms</h4>
     <ul>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/bfs.py" alt = "kavindu-mane">Breadth Fist Search Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/dfs.py" alt = "kavindu-mane">Depth Fist Search Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/prims_algorithm.py" alt = "kavindu-mane">Prim's Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/kruskals_algorithm.py" alt = "kavindu-mane">Kruskal's Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/dijkstra_algorithm.py" alt = "kavindu-mane">Dijkstra Algorithm</a></i></li>
