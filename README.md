@@ -29,6 +29,7 @@
     <li><h4>Other Algorithms</h4>
     <ul>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/other%20algorithms/miller_rabin_primality.py" alt = "kavindu-mane">Miller-Rabin Primality Test Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/other%20algorithms/stable_marriage_problem_algorithm.py" alt = "kavindu-mane">Stable Marriage Problem Algorithm</a></i></li>
     </ul>
     </li>
 </ul>
