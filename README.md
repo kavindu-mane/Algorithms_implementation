@@ -57,5 +57,5 @@
 
 <ul>
     <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/data%20structures/linked_list.py" alt = "kavindu-mane">Linked List</a> &ensp;( Using Singly Linked List )</i></li>
-    <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/binary_search_tree.py" alt = "kavindu-mane">Binary Search Tree</a> &ensp;( <a href ="https://github.com/kavindu-mane/Algorithms_implementation/blob/main/tree.png">Show Used Tree</a> )</i></li>
+    <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/data%20structures/binary_search_tree.py" alt = "kavindu-mane">Binary Search Tree</a> &ensp;( <a href ="https://github.com/kavindu-mane/Algorithms_implementation/blob/main/tree.png">Show Used Tree</a> )</i></li>
 </ul>
