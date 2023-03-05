@@ -8,7 +8,6 @@
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/prims_algorithm.py" alt = "kavindu-mane">Prim's Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/kruskals_algorithm.py" alt = "kavindu-mane">Kruskal's Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/dijkstra_algorithm.py" alt = "kavindu-mane">Dijkstra Algorithm</a></i></li>
-      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/binary_search_tree.py" alt = "kavindu-mane">Binary Search Tree</a> &ensp;( <a href ="https://github.com/kavindu-mane/Algorithms_implementation/blob/main/tree.png">Show Used Tree</a> )</i></li>
     </ul>
     </li>   
     <li><h4>Sort Algorithms</h4>
@@ -42,4 +41,5 @@
           <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/data%20structures/linked_list.py" alt = "kavindu-mane">Singly LinkedList</a></i></li>
         </ul>
     </li>
+    <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/binary_search_tree.py" alt = "kavindu-mane">Binary Search Tree</a> &ensp;( <a href ="https://github.com/kavindu-mane/Algorithms_implementation/blob/main/tree.png">Show Used Tree</a> )</i></li>
 </ul>
