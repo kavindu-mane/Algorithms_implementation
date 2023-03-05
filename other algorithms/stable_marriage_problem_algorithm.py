@@ -24,13 +24,6 @@ def stable_marriage(boys , girls):
         "John": 0
     }
 
-    like_level_girl = {
-        "Emma": float("inf"),
-        "Sophia": float("inf"),
-        "Ellie": float("inf"),
-        "Maya": float("inf")
-    }
-    
     while None in mached_couple.values():
         for key in  mached_couple.keys():
             if mached_couple[key] is None:
@@ -43,12 +36,10 @@ def stable_marriage(boys , girls):
                 if(current_boy_name is None):
 
                     set_couple = True
-                    like_level_girl[next_girl] = 0
 
                 elif  next_girl_like_order.index(current_boy_name) >  next_girl_like_order.index(key):
                     
                     set_couple = True
-                    like_level_girl[next_girl] = next_girl_like_order.index(key)
                     mached_couple[current_boy_name] = None
                 
                 if set_couple:
