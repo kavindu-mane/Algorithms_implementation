@@ -40,7 +40,7 @@ class Graph:
             print()
 
 graph = Graph()
-graph.add_edge("A", "B" , 2 )
+graph.add_edge("A", "B" , 2)
 graph.add_edge("A", "C" , 5)
 graph.add_edge("A", "D" , 8)
 graph.add_edge("B", "C" , 9)
