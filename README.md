@@ -33,18 +33,18 @@
     <ul>
        <li><h4>Adjacency Matrix</h4>
        <ul>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/directedt_unweighted_adjacency_matrix.py" alt = "kavindu-mane">Directed Unweighted Adjacency Matrix</a></i></li>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/undirectedt_unweighted_adjacency_matrix.py" alt = "kavindu-mane">Undirected Unweighted Adjacency Matrix</a></i></li>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/directedt_weighted_adjacency_matrix.py" alt = "kavindu-mane">Directed Weighted Adjacency Matrix</a></i></li>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/undirectedt_weighted_adjacency_matrix.py" alt = "kavindu-mane">Undirected Weighted Adjacency Matrix</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/directed_unweighted_adjacency_matrix.py" alt = "kavindu-mane">Directed Unweighted Adjacency Matrix</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/undirected_unweighted_adjacency_matrix.py" alt = "kavindu-mane">Undirected Unweighted Adjacency Matrix</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/directed_weighted_adjacency_matrix.py" alt = "kavindu-mane">Directed Weighted Adjacency Matrix</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacecny%20matrix/undirected_weighted_adjacency_matrix.py" alt = "kavindu-mane">Undirected Weighted Adjacency Matrix</a></i></li>
        </ul>
        </li>
        <li><h4>Adjacency List</h4>
        <ul>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/directedt_unweighted_adjacency_list.py" alt = "kavindu-mane">Directed Unweighted Adjacency List</a></i></li>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/undirectedt_unweighted_adjacency_list.py" alt = "kavindu-mane">Undirected Unweighted Adjacency List</a></i></li>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/directedt_weighted_adjacency_list.py" alt = "kavindu-mane">Directed Weighted Adjacency List</a></i></li>
-          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/undirectedt_weighted_adjacency_list.py" alt = "kavindu-mane">Undirected Weighted Adjacency List</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/directed_unweighted_adjacency_list.py" alt = "kavindu-mane">Directed Unweighted Adjacency List</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/undirected_unweighted_adjacency_list.py" alt = "kavindu-mane">Undirected Unweighted Adjacency List</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/directed_weighted_adjacency_list.py" alt = "kavindu-mane">Directed Weighted Adjacency List</a></i></li>
+          <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/graphs%20represent/adjacency%20list/undirected_weighted_adjacency_list.py" alt = "kavindu-mane">Undirected Weighted Adjacency List</a></i></li>
        </ul>
        </li>
     </ul>
