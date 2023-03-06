@@ -10,6 +10,8 @@
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/prims_algorithm.py" alt = "kavindu-mane">Prim's Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/kruskals_algorithm.py" alt = "kavindu-mane">Kruskal's Algorithm</a></i></li>
       <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/dijkstra_algorithm.py" alt = "kavindu-mane">Dijkstra Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/bellman_ford_algorithm.py" alt = "kavindu-mane">Bellman Ford Algorithm</a></i></li>
+      <li><i><a href = "https://github.com/kavindu-mane/Algorithms_implementation/blob/main/traversing%20algorithms/floyed_warshall_algorithm.py" alt = "kavindu-mane">Floyed Warshall Algorithm</a></i></li>
     </ul>
     </li>   
     <li><h4>Sort Algorithms</h4>
