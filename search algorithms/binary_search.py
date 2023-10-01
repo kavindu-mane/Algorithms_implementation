@@ -9,8 +9,8 @@ def binary_search(array ,search_term):
     elif array[mid] < search_term:
         return binary_search(array[mid + 1:] ,search_term)
 
-array = [ 2, 5 , 1 , 2 , 20 , 15 , 12, 3 , 4 , 2 , 50 , 21 , 23 ,35]
+array = [ 1 , 2, 5 , 7 , 20 , 25 , 32, 37 , 40 , 42 , 50 , 61 , 63 ,75]
 array.sort()
 print(binary_search(array , 100)) # print False
-print(binary_search(array , 0)) # print False
-print(binary_search(array , 12)) # print True
+print(binary_search(array , 42)) # print True
+print(binary_search(array , 75)) # print True
